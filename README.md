@@ -1,3 +1,4 @@
+![Screenshot (127)](https://user-images.githubusercontent.com/47940591/124146600-8d4f9d80-daab-11eb-8b3d-a48187d8b744.png)
 # Google_Sheets
 Google Sheets Clone having multiple functionality like calculations of formulas, resizing font, using different fonts and many more.
 
